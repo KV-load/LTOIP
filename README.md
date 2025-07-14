@@ -1,2 +1,8 @@
 # LTOIP (Language translation over internet protocol)
-This is a software that I am trying to make to translate the language on flow when we are talking to someone but not able to understand each other.
+
+## Problem:-
+How many times we visit new places and when we want to talk to someone ex: our uber car we are not able to understand him, and vice-versa.
+Which I also felt while booking cabs in chennai.
+
+## Solution:- 
+So for this I want to create this peice of software which while talking to someone on call or in realtime will translate each other language in the flow.
